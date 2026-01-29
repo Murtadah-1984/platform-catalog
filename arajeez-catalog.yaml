@@ -8,4 +8,4 @@ spec:
     - ./systems
     - ./resources
     - ./groups
-    - ./componants
+    - ./components
