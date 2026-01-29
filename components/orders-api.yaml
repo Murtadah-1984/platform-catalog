@@ -12,5 +12,5 @@ spec:
   owner: group:backend-team
   system: arajeez-platform
   dependsOn:
-    - resource:app-postgres
+    - resource:postgres
     - resource:rabbitmq
