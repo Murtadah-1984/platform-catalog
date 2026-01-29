@@ -5,7 +5,7 @@ metadata:
 spec:
   type: url
   targets:
-    - ./systems
-    - ./resources
-    - ./groups
-    - ./components
+    - ./systems/*.yaml
+    - ./resources/*.yaml
+    - ./groups/*.yaml
+    - ./components/*.yaml
