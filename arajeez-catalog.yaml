@@ -5,7 +5,7 @@ metadata:
 spec:
   type: url
   targets:
-    - https://github.com/Murtadah-1984/platform-catalog/tree/main/systems/*.yaml
-    - https://github.com/Murtadah-1984/platform-catalog/tree/main/resources/*.yaml
-    - https://github.com/Murtadah-1984/platform-catalog/tree/main/components/*.yaml
-    - https://github.com/Murtadah-1984/platform-catalog/tree/main/groups/*.yaml
+    - ./systems/*.yaml
+    - ./resources/*.yaml
+    - ./groups/*.yaml
+    - ./components/*.yaml
