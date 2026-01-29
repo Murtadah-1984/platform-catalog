@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: arajeez-platform
+  description: Core Arajeez cloud platform
+spec:
+  owner: group:platform-team

@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Resource
+metadata:
+  name: postgres
+  description: PostgreSQL cluster (CNPG)
+spec:
+  type: database
+  owner: group:platform-team
+  system: arajeez-platform

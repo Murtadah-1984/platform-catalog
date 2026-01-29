@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: arajeez-catalog
+spec:
+  type: url
+  targets:
+    - https://github.com/Murtadah-1984/platform-catalog/tree/main/systems
+    - https://github.com/Murtadah-1984/platform-catalog/tree/main/resources
+    - https://github.com/Murtadah-1984/platform-catalog/tree/main/components
+    - https://github.com/Murtadah-1984/platform-catalog/tree/main/groups
